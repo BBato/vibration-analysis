@@ -1,3 +1,3 @@
 Vibration Frequency Analysis
 
-[Sample](sample_output.png)
+![Sample](sample_output.png)
